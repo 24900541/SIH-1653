@@ -1,26 +1,43 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:12:03:2025
+## Register Number:212224040355
+## Name:Vaishak.M
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
-Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defence carries out interviews for applications received against advertised vacancies and for promotion to next higher grade for scientific manpower inducted within DRDO. Description: The process of interviewing is a challenging task. An unbiased objective interviewing process helps identify the right talent. The basic process of an interview involves posing a set of questions by an interviewer and thereafter evaluating responses from candidates. Thus, the questions asked should be relevant and match the area/ expertise of the applicant and the responses should also be of relevance w.r.t. the question asked. Expected Solution: The proposed solution should provide experts as well as candidates a real life Board Room experience, starting with initial ice-breaking questions leading to in-depth techno-managerial (depending on the level of candidate) questions. It shall also be able to provide a quantifiable score for experts as well as the candidate for the relevancy of questions w.r.t. the area/ expertise of the applicant. Similarly, candidate responses should also be graded for relevancy w.r.t. the question asked, finally assisting in arriving at an overall score for the subject knowledge of the candidate and thus his/ her suitability against the advertised post.
-
+Background: The Ministry of Agriculture faces several challenges that hinder the growth and sustainability of the agricultural sector. Climate change, soil degradation, and water scarcity pose significant threats to crop production, affecting food security. Farmers often struggle with low incomes due to high input costs, fluctuating market prices, and inadequate access to financial support. Additionally, the lack of modernization and limited adoption of advanced technologies reduce productivity and efficiency in farming. Poor infrastructure, inefficient supply chains, and post-harvest losses further impact profitability. Moreover, gaps in policy implementation, bureaucratic delays, and a lack of awareness among farmers create barriers to effective agricultural development. Addressing these issues requires a combination of sustainable practices, financial support, technological advancements, and policy reforms to ensure a resilient and prosperous agricultural sector.
 ## Problem Creater's Organization
-Ministry of Defence
+Ministry of Agriculture
 
-## Idea
+## Idea  
+
+1. **Sustainable Farming** – Promote organic farming, water conservation, and soil health.  
+2. **Technology & Innovation** – Use AI, IoT, and drones for precision farming.  
+3. **Farmer Welfare** – Provide subsidies, insurance, and training programs.  
+4. **Market & Exports** – Strengthen supply chains, support agro-processing, and boost exports.  
+5. **Climate Resilience** – Develop drought-resistant crops and promote eco-friendly practices.  
 
 
 ## Proposed Solution / Architecture Diagram
 
+![Screenshot 2025-03-12 202015](https://github.com/user-attachments/assets/a373d32e-7a6a-49d0-9a02-71813e811505)
 
 ## Use Cases
 
+![Screenshot 2025-03-12 202255](https://github.com/user-attachments/assets/b4abbe1e-95f2-4c21-87c2-2652a21218c5)
 
 ## Technology Stack
 
+1. PostgreSQL, Hadoop, Power BI.  
+2. React, Flutter.  
+3. Sensors, Drones, AI (TensorFlow).  
+4. AWS, Azure.  
+5. Hyperledger, Ethereum.    
+6. WhatsApp API, Google Earth Engine.  
 
 ## Dependencies
+Research & Development :15 days
 
+Market & Supply Chains :15 days
+
+budget :50,000
